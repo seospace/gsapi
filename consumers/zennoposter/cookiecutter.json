@@ -1,0 +1,15 @@
+{
+  "server": "http://gsapi.local:9090",
+  "engine_name": "example.com",
+  "engine_type": "Profile-URL",
+  "description": "",
+  "dofollow": 1,
+  "anchor_text": 1,
+  "creates_own_page": 1,
+  "uses_pages": 0,
+  "multiple_posts_per_account": 0,
+  "link_type": "Profile-URL",
+  "gsa_engines_directory": "C:\\Program Files (x86)\\GSA Search Engine Ranker\\Engines",
+  "fixed_url": "example.com"
+
+}
