@@ -1,0 +1,18 @@
+{
+  "engine_name": "example.com",
+  "engine_type": "Profile-URL",
+  "description": "",
+  "page_must_have": "",
+  "search_term": "",
+  "add_keyword_to_search": 2,
+  "dofollow": 0,
+  "anchor_text": 0,
+  "creates_own_page": 0,
+  "extract_keywords": 0,
+  "extract urls": 0,
+  "uses_pages": 0,
+  "posted_domain_check": 0,
+  "multiple_posts_per_account": 0,
+  "link_type": "Profile-URL",
+  "gsa_engines_directory": "C:\\Program Files (x86)\\GSA Search Engine Ranker\\Engines"
+}
