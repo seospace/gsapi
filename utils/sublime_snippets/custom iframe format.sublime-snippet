@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[custom iframe format=${1}]]></content>    <description> /If set, it will try to locate the iframe syntax for videos and replace it with that new syntax.Example:custom iframe format=&amp;lt;iframe src=%url%&amp;gt;&amp;lt;/iframe&amp;gt;</description>    <tabTrigger>custom iframe format</tabTrigger></snippet>

@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[referrer=${1}]]></content>    <description> /Sets a fixed referrer that is used when downloading content or submitting something to this site.Example: referrer=%url%This will always use your URL from the project as a referrer.</description>    <tabTrigger>referrer</tabTrigger></snippet>

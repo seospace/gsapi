@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[must have=${1}]]></content>    <description> /If the extracted data has not the something appearing in “must have” we set it blank again.</description>    <tabTrigger>must have</tabTrigger></snippet>

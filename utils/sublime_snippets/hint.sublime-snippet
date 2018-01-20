@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[hint=${1}]]></content>    <description> /A text that is displayed when the user moves his mouse over the field.</description>    <tabTrigger>hint</tabTrigger></snippet>

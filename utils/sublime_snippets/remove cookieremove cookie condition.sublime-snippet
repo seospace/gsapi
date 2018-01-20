@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[remove cookieremove cookie condition=${1}]]></content>    <description> /Removes a cookie manually for the given URL/domainExample: remove cookies=%targeturl%This removes any cookie for this domain</description>    <tabTrigger>remove cookieremove cookie condition</tabTrigger></snippet>

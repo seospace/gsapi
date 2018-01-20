@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[increase=${1}]]></content>    <description> /If the extracted data is a integer we can increase or decrease (negative number) the data by the given value.</description>    <tabTrigger>increase</tabTrigger></snippet>

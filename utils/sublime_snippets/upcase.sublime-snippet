@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[upcase=${1}]]></content>    <description> /Used when the type is a login.0 = capital chars are not allowed1 = capital chars are allowed (default)</description>    <tabTrigger>upcase</tabTrigger></snippet>

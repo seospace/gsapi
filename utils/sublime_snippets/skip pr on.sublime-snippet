@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[skip pr on=${1}]]></content>    <description> /Overwrites project settings: Skip sites with a PR below1 = setting from project is applied0 = setting from project is ignored</description>    <tabTrigger>skip pr on</tabTrigger></snippet>

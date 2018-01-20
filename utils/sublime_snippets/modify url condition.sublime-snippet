@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[modify url condition=${1}]]></content>    <description> /If present it will check if the content is presnet on the webpage and only apply the “modify url” changes when present.</description>    <tabTrigger>modify url condition</tabTrigger></snippet>

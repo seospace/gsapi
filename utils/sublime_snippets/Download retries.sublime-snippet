@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[download retries=${1}]]></content>    <description> /Number of tries to submit or download something (default is 1).</description>    <tabTrigger>Download retries</tabTrigger></snippet>

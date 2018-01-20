@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[variable must be used=${1}]]></content>    <description> /A form is only submitted if certain variables have been used in that form.Example: variable must be used=url,login|emailThe above example requires a form to use the variable “url” or “login” and “email”.\\</description>    <tabTrigger>variable must be used</tabTrigger></snippet>

@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[alpha=${1}]]></content>    <description> /Used when the type is a login.0 = no alpha (A-Z) chars allowed1 = alpha chars allowed (default)</description>    <tabTrigger>alpha</tabTrigger></snippet>

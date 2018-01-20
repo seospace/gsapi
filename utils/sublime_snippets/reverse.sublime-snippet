@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[reverse=${1}]]></content>    <description> /When using reverse=1 then it will reverse the result turning 123 into 321.</description>    <tabTrigger>reverse</tabTrigger></snippet>

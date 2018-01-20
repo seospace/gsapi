@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[custom img format=${1}]]></content>    <description> /If set, it will try to locate the html syntax for images and replace it with that new syntax.Example:custom img format=[img=%url%]</description>    <tabTrigger>custom img format</tabTrigger></snippet>

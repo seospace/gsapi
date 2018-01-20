@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[numeric=${1}]]></content>    <description> /Used when the type is a login.0 = no numbers allowed1 = numbers allowed (default)</description>    <tabTrigger>numeric</tabTrigger></snippet>

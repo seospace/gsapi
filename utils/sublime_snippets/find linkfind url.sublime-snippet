@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[find linkfind url=${1}]]></content>    <description> /Instead of using front/back we extract URLs by the given parameters.</description>    <tabTrigger>find linkfind url</tabTrigger></snippet>

@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[lowcase=${1}]]></content>    <description> /Used when the type is a login.0 = lowercase chars are not allowed1 = lowercase chars are allowed (default)</description>    <tabTrigger>lowcase</tabTrigger></snippet>

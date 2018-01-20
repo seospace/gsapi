@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[skip ext links on=${1}]]></content>    <description> /Overwrites project settings: Skip sites with more than1 = setting from project is applied0 = setting from project is ignored</description>    <tabTrigger>skip ext links on</tabTrigger></snippet>

@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[extract urls=${1}]]></content>    <description> /1 = Extract URLs from the sites.0 = Don&amp;apos;t extract URLs (default)If enabled, the program will download verified URLs and try to post to sites found as external links.</description>    <tabTrigger>extract urls</tabTrigger></snippet>

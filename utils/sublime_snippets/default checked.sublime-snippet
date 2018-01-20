@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[default checked=${1}]]></content>    <description> /1 = When a new project is created, this engine will be enabled (default)0 = This engine is not checked on a new project</description>    <tabTrigger>default checked</tabTrigger></snippet>

@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[random=${1}]]></content>    <description> /Usual only the first appearance of the extracted data is taken. When you use “random=1” then all data is extracted and a random item from it is used.</description>    <tabTrigger>random</tabTrigger></snippet>

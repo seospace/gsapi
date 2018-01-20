@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[remove html=${1}]]></content>    <description> /0 = Do not modify it1 = remove html code</description>    <tabTrigger>remove html</tabTrigger></snippet>

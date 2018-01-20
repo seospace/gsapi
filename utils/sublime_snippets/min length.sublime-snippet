@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[min length=${1}]]></content>    <description> /The minimum length of the resulting data.</description>    <tabTrigger>min length</tabTrigger></snippet>

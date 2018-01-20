@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[use original url to verify=${1}]]></content>    <description> /1 = this will not use the last URL but the URL we started the whole engine with.0 = use the last URL at the end of the submission (default)Example: use original url to verify=1</description>    <tabTrigger>use original url to verify</tabTrigger></snippet>

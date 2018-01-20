@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[custom mode=${1}]]></content>    <description> /1 = User is asked to manually customize this data before submission (when custom mode is on)0 = No customization (default)</description>    <tabTrigger>custom mode</tabTrigger></snippet>

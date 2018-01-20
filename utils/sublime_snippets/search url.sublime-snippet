@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[search url=${1}]]></content>    <description> /Instead of using the current URL for extracting something, we search for an URL by the given mask and if found use that URL&amp;apos;s content to extract data from.</description>    <tabTrigger>search url</tabTrigger></snippet>

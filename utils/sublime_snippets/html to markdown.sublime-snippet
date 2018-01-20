@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[html to markdown=${1}]]></content>    <description> /1 = Convert html code to markdown code0 = Do not convert it&amp;lt;text&amp;gt; = Convert it if the text is appearing on the website.Also note that ”allow html=1“ has to be set.</description>    <tabTrigger>html to markdown</tabTrigger></snippet>

@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[capitalize words=${1}]]></content>    <description> /0 = no modification1 = Will Capitalize Each Word</description>    <tabTrigger>capitalize words</tabTrigger></snippet>

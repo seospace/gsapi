@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[find url=${1}]]></content>    <description> /Searches the site for a URL that is matching one of the masks defined in the variable.Example: find url=*/register|*/register.php|*/signup/*You should always use find link and find url in combination so that if one fails the other is used.</description>    <tabTrigger>find url</tabTrigger></snippet>

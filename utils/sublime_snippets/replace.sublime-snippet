@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[replace=${1}]]></content>    <description> /Replace certain content before we apply it to the form field. See “verify url replace” for syntax.</description>    <tabTrigger>replace</tabTrigger></snippet>

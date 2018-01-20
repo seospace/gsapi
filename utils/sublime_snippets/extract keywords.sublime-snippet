@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[extract keywords=${1}]]></content>    <description> /1 = Extract keywords from the sites meta tags. These can be used later on0 = Don&amp;apos;t extract keywords (default)</description>    <tabTrigger>extract keywords</tabTrigger></snippet>

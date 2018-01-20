@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[first verify=${1}]]></content>    <description> /The first verification would start 10 minutes after the submission unless you define it differently.Example: first verify=60This means to check one hour after the submission.</description>    <tabTrigger>first verify</tabTrigger></snippet>

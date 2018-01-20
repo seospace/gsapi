@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[description=${1}]]></content>    <description> /Just write some notes about this engine that get shown when the user moves the mouse over the engine name in the tree view. You can use \n to generate a line feed.Example: description=My little Engine\n\n© GSA Supported\n\nHave fun</description>    <tabTrigger>description</tabTrigger></snippet>

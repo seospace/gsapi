@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[write file=${1}]]></content>    <description> /Writes data to a file.Example: write file=“C:\temp\accounts.txt” “%targeturl%;%login%;%password%”</description>    <tabTrigger>write file</tabTrigger></snippet>

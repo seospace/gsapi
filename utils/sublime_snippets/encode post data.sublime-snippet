@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[encode post data=${1}]]></content>    <description> /1 = encode the data in a proper way as used in POST protocol2 = encode it using multipart 0 = take the data as it is without encoding anything3 = encode it using json syntax</description>    <tabTrigger>encode post data</tabTrigger></snippet>

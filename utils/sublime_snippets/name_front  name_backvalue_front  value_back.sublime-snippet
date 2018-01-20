@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[name_front / name_backvalue_front / value_back=${1}]]></content>    <description> /Instead of using front/back we extract actually two values here and later join them with “name=value”. This is useful for cookie extraction.</description>    <tabTrigger>name_front / name_backvalue_front / value_back</tabTrigger></snippet>

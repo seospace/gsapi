@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[modify url replace=${1}]]></content>    <description> /The same as “verify url replace” but used to modify a URL for the submission.</description>    <tabTrigger>modify url replace</tabTrigger></snippet>

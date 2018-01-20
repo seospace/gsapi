@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[verify interval=${1}]]></content>    <description> /Defines in what interval in minutes this verification should take place (default 180). Example: verify interval=60This checks each hour if the submission is verified.</description>    <tabTrigger>verify interval</tabTrigger></snippet>

@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[input=${1}]]></content>    <description> /By default “input” is the content of the last downloaded/submitted webpage or, if you specified url=… ,that content. With input you can change the source of the content to parse in.</description>    <tabTrigger>input</tabTrigger></snippet>

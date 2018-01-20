@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[browse links url mask=${1}]]></content>    <description> /Tells the program to just search for URLs matching that mask.</description>    <tabTrigger>browse links url mask</tabTrigger></snippet>

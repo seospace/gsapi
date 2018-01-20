@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[browse links from root=${1}]]></content>    <description> /1 = The root URL is used for “browse links” in case the start URL is a sublink.0 = Start the “browse links” from where we are.</description>    <tabTrigger>browse links from root</tabTrigger></snippet>

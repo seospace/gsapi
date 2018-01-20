@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[link type=${1}]]></content>    <description> /Defines the type of backlink created. Can be anything you want but you might want to use the types already used in other scripts.</description>    <tabTrigger>Link type</tabTrigger></snippet>

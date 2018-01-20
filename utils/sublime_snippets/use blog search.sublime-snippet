@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[use blog search=${1}]]></content>    <description> /0 = Never use blog search engines1 = Use blog search engines (default)2 = Use only blog search engines</description>    <tabTrigger>use blog search</tabTrigger></snippet>

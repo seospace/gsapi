@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[whois only=${1}]]></content>    <description> /Very special variable that is only used for engines that submit your URL to sites that carry your domain in there URL.0 = Not a whois only engine (default)1 = Only whois submission and if not detected as a whois one, skip submission</description>    <tabTrigger>whois only</tabTrigger></snippet>

@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[allow html=${1}]]></content>    <description> /0 = No html allowed1 = html is allowed&amp;lt;text&amp;gt; = If the text appears on the webpage we will allow html. HTML will be removed from your defined content if not supported by the engine (transformed into text only).</description>    <tabTrigger>allow html</tabTrigger></snippet>

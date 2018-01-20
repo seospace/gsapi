@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[optional find url link=${1}]]></content>    <description> /0 = A link has to be found else we abort the submission (default)1 = If no link is found we continue to find a form or whatever should be done in the current submission step.Example: optional find url link=0</description>    <tabTrigger>optional find url link</tabTrigger></snippet>

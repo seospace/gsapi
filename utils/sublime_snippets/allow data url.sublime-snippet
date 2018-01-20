@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[allow data url=${1}]]></content>    <description> /0 = do not allow data URLs → gets removed1 = allow them (default)This will remove e.g. images from the article that are Data-URLs</description>    <tabTrigger>allow data url</tabTrigger></snippet>

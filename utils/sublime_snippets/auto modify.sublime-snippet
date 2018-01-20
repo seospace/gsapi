@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[auto modify=${1}]]></content>    <description> /1 = Modify the content a bit with random line feeds and other things to make it a bit more unique (not duplicate content).0 = Do not modify this at all2 = Modify only line breaks after full sentences</description>    <tabTrigger>auto modify</tabTrigger></snippet>

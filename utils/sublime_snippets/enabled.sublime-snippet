@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[enabled=${1}]]></content>    <description> /1 = Engine is usable from GUI (default)0 = Engine is not usable from GUI</description>    <tabTrigger>enabled</tabTrigger></snippet>

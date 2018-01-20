@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[just download=${1}]]></content>    <description> /1 = Download the new URL and continue with STEP2 or finish the submission if nothing else should be done.0 = a form has to be found to start the submission (default)</description>    <tabTrigger>just download</tabTrigger></snippet>

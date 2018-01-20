@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[url=${1}]]></content>    <description> /Instead of using the current URL for extracting something, we extract the content from the given URL.</description>    <tabTrigger>url</tabTrigger></snippet>

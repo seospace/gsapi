@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[add keyword to search=${1}]]></content>    <description> /1 = Add a keyword from the project to the search query0 = Never add a keyword to the search query2 = Add just sometimes a keyword to it if it seems to be useful (default)</description>    <tabTrigger>add keyword to search</tabTrigger></snippet>

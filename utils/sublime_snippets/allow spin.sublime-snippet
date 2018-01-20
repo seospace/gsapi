@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[allow spin=${1}]]></content>    <description> /1 = User can use spin syntax in project editor (default)0 = User is not allowed to use spin syntax</description>    <tabTrigger>allow spin</tabTrigger></snippet>

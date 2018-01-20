@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[captcha hint=${1}]]></content>    <description> /A hint that should be displayed along with the captcha input</description>    <tabTrigger>captcha hint</tabTrigger></snippet>

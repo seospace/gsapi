@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[extract keywords ignore=${1}]]></content>    <description> /Ignores the keywords and will not add them.Example: extract keywords ignore=blog,wordpressIf the meta keywords for that site are “SEO, blog, wordpress” then the  program will just extract SEO from it.</description>    <tabTrigger>extract keywords ignore</tabTrigger></snippet>

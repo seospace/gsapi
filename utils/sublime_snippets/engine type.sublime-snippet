@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[engine type=${1}]]></content>    <description> /Name the type of the engine e.g. Directory, Forum, Blog Comment,…This will be used to sort it into the tree view when you edit or create a project.Example: engine type=My Engines</description>    <tabTrigger>engine type</tabTrigger></snippet>

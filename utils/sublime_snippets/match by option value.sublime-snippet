@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[match by option value=${1}]]></content>    <description> /1 = A form with a select or radio field is filled by checking the variable content against the option value (hidden from the users eye in browser)0 = We will not check for a matching value</description>    <tabTrigger>match by option value</tabTrigger></snippet>

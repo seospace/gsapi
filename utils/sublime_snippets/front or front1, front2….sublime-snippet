@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[front or front1, front2…=${1}]]></content>    <description> /Defines the content to cut in front of our to extract data. Separate  multiple variations by |.</description>    <tabTrigger>front or front1, front2…</tabTrigger></snippet>

@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[dofollow=${1}]]></content>    <description> /1 = This engine creates a do follow link0 = This engine creates a no follow link2 = This engines produces both, no follow and do follow links.</description>    <tabTrigger>dofollow</tabTrigger></snippet>

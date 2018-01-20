@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[form request with=${1}]]></content>    <description> /Some Forms get sent by ajax or some other javascript framework and would than need to send a “X-Requested-With” in the html header. By default nothing is sent by in the HTML header.Example: form request with=XMLHttpRequest</description>    <tabTrigger>form request with</tabTrigger></snippet>

@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[must be filled=${1}]]></content>    <description> /1 = User must fill this out in project data0 = User can leave this empty (default)</description>    <tabTrigger>must be filled</tabTrigger></snippet>

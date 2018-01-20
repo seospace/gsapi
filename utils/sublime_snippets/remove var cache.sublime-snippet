@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[remove var cache=${1}]]></content>    <description> /Will remove extracted content/variables and makes sure to to reuse them but extract them againExample: remove var cache=captcha_img</description>    <tabTrigger>remove var cache</tabTrigger></snippet>

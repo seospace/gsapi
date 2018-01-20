@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[form url ignore=${1}]]></content>    <description> /Ignores forms where the submission URL would match the variable content.Example: form url ignore=*/search.phpThis tries to ignore a form where the resulting submission URL after pressing the submit button would match “*/search.php”.</description>    <tabTrigger>form url ignore</tabTrigger></snippet>

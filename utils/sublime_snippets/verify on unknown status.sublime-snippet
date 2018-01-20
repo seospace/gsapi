@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[verify on unknown status=${1}]]></content>    <description> /1 = if a submission is not detected as successful or failed it will still be taken as successful (appearing in log with “unknown submission status”)0 = we assume the submission failed (default)</description>    <tabTrigger>verify on unknown status</tabTrigger></snippet>

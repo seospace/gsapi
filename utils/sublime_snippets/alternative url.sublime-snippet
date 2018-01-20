@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[alternative url=${1}]]></content>    <description> /If find url and find link are not finding any URL that can be used, we will generate an alternative URL.Example: alternative url=./register.php\\</description>    <tabTrigger>alternative url</tabTrigger></snippet>

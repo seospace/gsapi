@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[allow return=${1}]]></content>    <description> /0 = no return/line feed allowed1 = return/line feed is allowed&amp;lt;text&amp;gt; = If the text appears on the webpage we will allow a return/line feed.</description>    <tabTrigger>allow return</tabTrigger></snippet>

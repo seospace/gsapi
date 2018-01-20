@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[verify timeout=${1}]]></content>    <description> /Defines how long we wait in minutes till we assume that a submission will never be successful and skip the whole site (default 7200).Example: verify timeout=180Waits 3 hours for a successful verification before giving up.</description>    <tabTrigger>verify timeout</tabTrigger></snippet>

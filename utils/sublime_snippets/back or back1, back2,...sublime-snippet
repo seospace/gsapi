@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[back or back1, back2,..=${1}]]></content>    <description> /Defines the content to cut in the back of our to extract data. Separate  multiple variations by |.</description>    <tabTrigger>back or back1, back2,..</tabTrigger></snippet>
