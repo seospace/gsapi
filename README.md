@@ -67,7 +67,7 @@ That's what your consumer will see:
 ![](help/consume_some_variable.png)
 
 7. After your script (for example Zennoposter template) builds a link, you just simply have to tell gsapi location of the link:
-- for example, if your `link_id is 2` and the url where SER can find url for project is `http:/google.com`, you have to [urlencode](https://www.w3schools.com/tags/ref_urlencode.asp) your link, and send HTTP GET requests to this endpoint:
+- for example, if your `link_id is 2` and the url where SER can find url for project is `http:/google.com`, you have to [urlencode](https://www.w3schools.com/tags/ref_urlencode.asp) your link, and send [HTTP GET requests](https://www.scaler.com/topics/hypertext-transfer-protocol/) to this endpoint:
 - http://gsapi.local:9090/api/link/set_redirect/2/http%3A%2F%2Fgoogle.com
 ```
 {
